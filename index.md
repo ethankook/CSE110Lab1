@@ -15,7 +15,7 @@ git commit
 
 [Check the README](README.md)
 
-[Link to the top](ethan's-user-page)
+[Link to the top](ethans-user-page)
 
 ### Hobbies
 - Guitar  
