@@ -2,6 +2,7 @@
 *Computer Engineering major*
 
 <img src="https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1966.png" alt="Me">
+
 ```
 git status
 git add
